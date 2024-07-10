@@ -1,0 +1,6 @@
+p:first-of-type {
+  color: blueviolet;
+}
+p:last-of-type {
+  color: aquamarine;
+}

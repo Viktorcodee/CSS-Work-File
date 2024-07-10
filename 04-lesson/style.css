@@ -1,0 +1,25 @@
+*{
+   color: darkcyan; 
+}
+
+h1{
+    color: royalblue;
+}
+
+h2{
+    color: bisque;
+}
+
+.Custom-article-style{
+    font-style: oblique;
+    font-size: 70%;
+}
+
+.italic-style bold-style{
+    font-style:oblique;
+    font-weight: bold;
+}
+
+#unique-style{
+    background-color: blue;
+}

@@ -1,0 +1,22 @@
+.box {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  background-color: darkcyan;
+  display: flex;
+  /* Using Justify-content is to align horizontally*/
+  /*justify-content: start;*/
+  /* Using align-item is to align vertically*/
+  /*align-items: center;*/
+  /* If you want the item to be in the center of the box, you 
+  use both justify and aligen to be center.*/
+  justify-content: center;
+  align-items: center;
+
+}
+.box-item {
+  width: 100px;
+  height: 100px;
+  background-color: cyan;
+  border: 1px solid black;
+}

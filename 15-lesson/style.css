@@ -1,0 +1,14 @@
+.container {
+  width: 1000px;
+  height: auto;
+  background-color: azure;
+  margin: auto;
+}
+
+@media screen and (max-width : 600px) {
+  .container {
+    background-color: black;
+    font-size: xx-large;
+    color: blue;
+  }
+}

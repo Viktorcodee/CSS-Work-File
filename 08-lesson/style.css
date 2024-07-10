@@ -1,0 +1,20 @@
+a{
+    color: cadetblue
+}
+a:link {
+    color: green;
+}
+a:visited {
+    color: gray;
+}
+
+a:Hover {
+    background-color: aquamarine;
+}
+a:focus{
+   outline: 1px solid palegreen; 
+}
+a:active{
+    color: blacktemp;
+}
+
